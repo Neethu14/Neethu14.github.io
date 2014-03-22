@@ -1,0 +1,10 @@
+/*
+forward slash and astreix--used to comment
+*/
+
+table {border: 1px solid black; }
+table tr th {
+      background-color: blue;
+      color: white;
+}
+table tr td {font-weight: bold; }
