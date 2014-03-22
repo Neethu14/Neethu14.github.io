@@ -8,3 +8,8 @@ table tr th {
       color: white;
 }
 table tr td {font-weight: bold; }
+table tr th#one {background-color: yellow;
+               color: black;
+}
+
+#main-content {width: 800px};
