@@ -11,5 +11,8 @@ table tr td {font-weight: bold; }
 table tr th#one {background-color: yellow;
                color: black;
 }
+table tr th#Maryland {background-color; black;
+                     color: red;
+}
 
 #main-content {width: 800px};
