@@ -2,9 +2,9 @@
 forward slash and astreix--used to comment
 */
 
-table {border: 1px solid purple; }
+table {border: 50px solid orange; }
 table tr th {
-      background-color: blue;
+      background-color: red;
       color: white;
 }
 table tr td {font-weight: bold; }
